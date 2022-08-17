@@ -1,5 +1,5 @@
 # decentralize
-My own reference and study guide for decentralized technologies
+My own reference and study guide for decentralized technologies: p2p, distributed ledgers, consensus, etc.
 
 ## Table of Contents
 
