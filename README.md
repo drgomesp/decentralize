@@ -8,4 +8,5 @@ My own reference and study guide for decentralized technologies
   - **Verifiable Credentials**
     - [Use Cases](https://www.w3.org/TR/vc-use-cases/)
     - [Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
-    - [Data Model](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/)
+    - [Data Model V1.1](https://www.w3.org/TR/vc-data-model/)
+    - [Data Model V2](https://www.w3.org/TR/vc-data-model-2.0/)
