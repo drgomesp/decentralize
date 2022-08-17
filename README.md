@@ -4,7 +4,9 @@ My own reference and study guide for decentralized technologies
 ## Table of Contents
 
 ### Foundation & Specs
-  - **[Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/)**
+  - **Decentralizd Identifiers (DIDs)**
+    - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/)
+    - [Decentralized Identifier Resolution (DID Resolution) v0.2](https://w3c-ccg.github.io/did-resolution/)
   - **Verifiable Credentials**
     - [Use Cases](https://www.w3.org/TR/vc-use-cases/)
     - [Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
