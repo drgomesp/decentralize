@@ -12,3 +12,6 @@ My own reference and study guide for decentralized technologies: p2p, distribute
     - [Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
     - [Data Model V1.1](https://www.w3.org/TR/vc-data-model/)
     - [Data Model V2](https://www.w3.org/TR/vc-data-model-2.0/)
+  - **RFCs**
+    - Guidelines for Writing RFC Text on Security Considerations [RFC3552](https://tools.ietf.org/html/rfc3552)
+    - Privacy Considerations for Internet Protocols [RFC6973](https://tools.ietf.org/html/rfc6973)
