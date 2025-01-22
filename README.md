@@ -6,7 +6,7 @@ My own reference and study guide for decentralized technologies: p2p, distribute
 ### Foundation & Specs
   - **Decentralized Identifiers (DIDs)**
     - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/)
-    - [Decentralized Identifier Resolution (DID Resolution) v0.2](https://w3c-ccg.github.io/did-resolution/)
+    - [Decentralized Identifier Resolution (DID Resolution) v0.3](https://www.w3.org/TR/did-resolution/)
   - **Verifiable Credentials**
     - [Use Cases](https://www.w3.org/TR/vc-use-cases/)
     - [Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
